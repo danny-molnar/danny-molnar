@@ -9,7 +9,7 @@ and my nights hacking on small tools that merge **infrastructure**, **code**, an
 ## 🧪 Currently hacking on
 
 - 🪵 **Glyphra** — AI-powered Terraform plan prettifier and summariser  
-- 📊 **FinOps / CUDOS automation** — building cost-insight pipelines for AWS organisations  
+- 📊 **FinOps / CUDOS/CID automation** — building cost-insight pipelines for AWS organisations  
 - 🗣️ **Inori** — an experimental programming language for pipelines, templating & reasoning  
 
 ---
